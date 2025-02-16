@@ -18,6 +18,7 @@
   - The game ends when a player wins or the grid is full
 
 # Screenshots
+<img src="https://github.com/user-attachments/assets/4765217f-0485-4759-a95a-9120efd4d245" width="50" />
 ![Screenshot 2025-02-16 200237](https://github.com/user-attachments/assets/4765217f-0485-4759-a95a-9120efd4d245)
 ![Screenshot 2025-02-16 200216](https://github.com/user-attachments/assets/1c760762-4556-4377-b1d0-ea07d05c809f)
 ![Screenshot 2025-02-16 200157](https://github.com/user-attachments/assets/1be0dbcb-1856-4b46-bc45-39e816c3601e)
