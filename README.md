@@ -20,9 +20,9 @@
 # Download MulTacToe → <a href = "https://archive.org/download/app-debug_202502/app-debug.apk">Here</a>
 
 # Configuration
-1. Put your google-services.json in /app
-  - Download your google-services.json file from your Firebase project
-  - Place it inside the /app directory of your project
+1- Put your google-services.json in /app
+    - Download your google-services.json file from your Firebase project
+    - Place it inside the /app directory of your project
 
 # Screenshots
 <img src="https://github.com/user-attachments/assets/ca73a5e5-84f2-4de6-9af9-c41678b8c3c8" width="250" />
